@@ -1,0 +1,13 @@
+Build               1.35	
+Enviroment 	    Windows 10	
+Test date 	    09.05.2022		
+Tester 		    Andrey Sozdatelev	
+
+
+Test Type    Checking     Result
+
+Smoke        sometext     pass
+
+Smoke        sometext 	  faild
+
+Smoke        sometext  	  pass
